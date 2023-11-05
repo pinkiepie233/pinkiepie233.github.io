@@ -1,0 +1,35 @@
+/* Change background color */
+body {
+    background-color: #ffddfd;
+}
+
+/* Change font properties for headings */
+h2 {
+    font-family: Pristina, Arial, sans-serif;
+    font-size: 24px;
+    font-weight: bold;
+    color: #333;
+}
+
+/* Change font properties for paragraphs */
+p {
+    font-family: Gabriola, serif;
+    font-size: 22px;
+    line-height: 1.5;
+    color: #666;
+}
+/* Change link color */
+a {
+    color: #8b00de; /* Example color (blue) */
+    text-decoration: none; /* Remove underlines */
+    font-family: Gabriola, sans-serif; /* Specify font family */
+    font-size: 22px; /* Set font size */
+    font-weight: bold; /* Make it bold */
+}
+
+    /* Hover effect (optional) */
+    a:hover {
+        color: #6ebb3e; /* Example color (red) */
+        text-decoration: underline; /* Add underline on hover */
+    }
+
